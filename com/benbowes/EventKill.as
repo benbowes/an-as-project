@@ -1,0 +1,1 @@
+﻿// dispatchEvent(new Event({}));package com.benbowes{	import flash.events.Event;	public class EventKill extends Event {			public static const DEATH:String = "death";		public var Obj:Object;		public function EventKill(Obj:Object=null) {						// bubbles=true, cancelable=false			super(DEATH, true, false);			this.Obj = Obj;		}	}}
