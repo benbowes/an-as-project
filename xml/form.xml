@@ -1,0 +1,66 @@
+<root>
+
+	<form>
+	   <!-- 
+		// probably only need to make dropdown values dynamic.... they are the only things that usually change 
+		name
+   	 	surname
+		email
+		phone
+		address
+		suburb
+		postcode
+		state   --> 
+		
+			<dropDown>
+				<variable>lookingFor</variable>
+				<labelText>LOOKING FOR?</labelText>
+				<itemValues>
+					<val>Personal residence</val>
+					<val>Investment</val>
+				</itemValues>
+			</dropDown>    
+			
+			<dropDown>
+				<variable>apartmentType</variable>
+				<labelText>APARTMENT TYPE</labelText>
+				<itemValues>
+					<val>One bedroom</val>
+					<val>Two bedroom</val>
+				</itemValues>
+			</dropDown>  
+			
+			<dropDown>
+				<variable>priceRange</variable>
+				<labelText>PRICE RANGE</labelText>
+				<itemValues>
+				   <val>$300,000-$350,000</val>
+				   <val>$350,000-$400,000</val>
+				   <val>$400,000-$450,000</val>
+				   <val>$450,000-$500,000</val>
+				   <val>$500,000-$600,000</val>
+				   <val>$600,000-$700,000</val>
+				</itemValues>
+			</dropDown>  
+			
+			<dropDown>
+				<variable>heardAboutUs</variable>
+				<labelText>HEARD ABOUT ILLURA?</labelText>
+				<itemValues>
+					<val>Email Notice</val>
+					<val>Onsite Signage</val>
+					<val>Realestate.com.au</val>
+					<val>The Age, Herald Sun</val>
+					<val>Chinese Property Weekly</val>
+					<val>Domain.com.au</val>
+					<val>Referral</val>
+				</itemValues>
+			</dropDown>   
+		
+		<!-- comments  -->
+              
+
+
+	</form>    
+	
+</root>

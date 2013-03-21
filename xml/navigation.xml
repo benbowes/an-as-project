@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<root>
+	 <navigationItem>
+		<buttonInstanceName>mapBtn</buttonInstanceName>
+		<navTweenToX>710</navTweenToX>
+		<navTweenToY>420</navTweenToY>
+		<buttonLabel>LOCATION MAP</buttonLabel>
+		<SWFAddressLocation>map</SWFAddressLocation>
+		<SWFAddressTitle>lILLURA | MAP</SWFAddressTitle>
+
+		<className>com.benbowes.PageMap</className>
+		<bgImage></bgImage> 
+		<bgImagePosition>right</bgImagePosition>
+	</navigationItem>
+	
+	<navigationItem>
+		<buttonInstanceName>westMelbourneBtn</buttonInstanceName>
+		<navTweenToX>710</navTweenToX>
+		<navTweenToY>430</navTweenToY>
+		<buttonLabel>WEST MELBOURNE</buttonLabel>
+		<SWFAddressLocation>west-melbourne</SWFAddressLocation>
+		<SWFAddressTitle>ILLURA | WEST MELBOURNE</SWFAddressTitle>
+		<className>com.benbowes.PageWestMelbourne</className>
+		<bgImage></bgImage> <!-- <bgImage>imagesFlash/bg/default.jpg</bgImage>      -->
+		<bgImagePosition>right</bgImagePosition>
+	</navigationItem>
+	
+    	
+	<navigationItem>
+		<buttonInstanceName>aboutBtn</buttonInstanceName> <!-- Name to give dynamically generated button instance -->
+		<navTweenToX>710</navTweenToX> <!-- X position of navigation - It moves aound -->
+		<navTweenToY>404</navTweenToY> <!-- Y position of navigation -->
+		<buttonLabel>ILLURA LIFESTYLE</buttonLabel> <!-- Text on button -->
+		<SWFAddressLocation>about-illura</SWFAddressLocation> <!-- see Asual's SWF ADDRESS documentation --> 
+		<SWFAddressTitle>ILLURA | ILLURA LIFESTYLE</SWFAddressTitle> <!-- Browser Title Text - see Asual's SWF ADDRESS documentation --> 
+		<className>com.benbowes.PageLifestyle</className> <!-- see library properties in flash -->
+		
+		<bgImage>lifeStyleBg</bgImage> <!-- background image (now in library) -->        <!-- <bgImage>imagesFlash/bg/default.jpg</bgImage>      --> 
+		<bgImagePosition>right</bgImagePosition> <!-- whether image aligns "left" or "right" -->
+	</navigationItem>
+
+	
+	<navigationItem>
+		<buttonInstanceName>residenceBtn</buttonInstanceName>
+		<navTweenToX>710</navTweenToX>
+		<navTweenToY>420</navTweenToY>
+		<buttonLabel>RESIDENCE</buttonLabel>
+		<SWFAddressLocation>residence</SWFAddressLocation>
+		<SWFAddressTitle>ILLURA | RESIDENCE</SWFAddressTitle>
+		<className>com.benbowes.PageResidence</className>
+		<bgImage></bgImage> 
+		<bgImagePosition>right</bgImagePosition>
+	</navigationItem>
+	
+	<navigationItem>
+		<buttonInstanceName>galleryBtn</buttonInstanceName>
+		<navTweenToX>710</navTweenToX>
+		<navTweenToY>300</navTweenToY>
+		<buttonLabel>GALLERY</buttonLabel>
+		<SWFAddressLocation>gallery</SWFAddressLocation>
+		<SWFAddressTitle>ILLURA | GALLERY</SWFAddressTitle>
+		<className>com.benbowes.PageGallery</className>
+		<bgImage></bgImage> 
+		<bgImagePosition>right</bgImagePosition>
+	</navigationItem>
+	
+	<navigationItem>
+		<buttonInstanceName>teamBtn</buttonInstanceName>
+		<navTweenToX>710</navTweenToX>
+		<navTweenToY>380</navTweenToY>
+		<buttonLabel>PROJECT TEAM</buttonLabel>
+		<SWFAddressLocation>project-team</SWFAddressLocation>
+		<SWFAddressTitle>ILLURA | PROJECT TEAM</SWFAddressTitle>
+		<className>com.benbowes.PageProjectTeam</className>
+		<bgImage>partnersBg</bgImage> 
+		<bgImagePosition>left</bgImagePosition>
+	</navigationItem>     
+	
+	<navigationItem>
+		<buttonInstanceName>investmentBtn</buttonInstanceName>
+		<navTweenToX>700</navTweenToX>
+		
+		<navTweenToY>405</navTweenToY>
+		<buttonLabel>INVESTMENT</buttonLabel>
+		<SWFAddressLocation>investment</SWFAddressLocation>
+		<SWFAddressTitle>ILLURA | INVESTMENT</SWFAddressTitle>
+		<className>com.benbowes.PageInvestment</className>
+		<bgImage></bgImage> 
+		<bgImagePosition></bgImagePosition>
+	</navigationItem>
+	
+	<navigationItem>
+		<buttonInstanceName>registerBtn</buttonInstanceName>
+		<navTweenToX>710</navTweenToX>
+		<navTweenToY>290</navTweenToY>
+		<buttonLabel>DISPLAY SUITE NOW OPEN</buttonLabel>
+		<SWFAddressLocation>register</SWFAddressLocation>
+		<SWFAddressTitle>ILLURA | REGISTER</SWFAddressTitle>
+		<className>com.benbowes.PageRegister</className>
+		<bgImage>registerBg</bgImage> 
+		<bgImagePosition>left</bgImagePosition>
+	</navigationItem>
+	
+</root>

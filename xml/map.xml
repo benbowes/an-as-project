@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<root>      
+
+	<map>  
+		
+		<location heading="Etihad Stadium" x="308" y="240" offscreen="false" />
+		<location heading="Docklands" x="233" y="194" offscreen="false" />           
+		<location heading="City Link" x="124" y="111" offscreen="false" />           
+		<location heading="Royal Melbourne Hospital" x="440" y="5" offscreen="up" />           
+		<location heading="Royal Childrens Hospital" x="327" y="5" offscreen="up" />           
+		<location heading="North Melbourne Cricket Ground" x="200" y="5" offscreen="up" />           
+		<location heading="Queen Victoria Market" x="468" y="80" offscreen="false" />           
+		<location heading="North Melbourne Train Station" x="230" y="70" offscreen="false" />           
+		<location heading="State Library" x="536" y="130" offscreen="false" />           
+		<location heading="RMIT" x="530" y="114" offscreen="false" />           
+		<location heading="Flagstaff Gardens" x="402" y="138" offscreen="false" />           
+		<location heading="Melbourne Cricket Ground" x="784" y="286" offscreen="false" />           
+		<location heading="Rod Laver Arena" x="769" y="342" offscreen="false" />           
+		<location heading="Victoria Arts Centre" x="575" y="298" offscreen="false" />           
+		<location heading="National Gallery of Victoria" x="575" y="307" offscreen="false" />           
+		<location heading="Sidney Myer Music Bowl" x="668" y="342" offscreen="false" />           
+		<location heading="Melbourne Exhibition Centre" x="422" y="352" offscreen="false" />           
+		<location heading="Crown Casino Complex" x="461" y="336" offscreen="false" />           
+		<location heading="Carlton Gardens" x="626" y="69" offscreen="false" />           
+		<location heading="Royal Exhibition Building" x="626" y="38" offscreen="false" />           
+		<location heading="Melbourne Museum" x="635" y="30" offscreen="false" />           
+		
+
+	</map>
+	
+</root>                              
+
+
+
+
+
+

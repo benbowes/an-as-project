@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<root>      
+	
+	
+	<teamMembers>  
+		
+		<team id="Manhattan Hanson">
+			<heading><![CDATA[Developer]]></heading>
+			<bodyText><![CDATA[Two of Australia’s most successful family run property businesses have joined to establish a company dedicated to developing signature residential product in the Melbourne metropolitan area. Their emphasis on well-built, quality, sophisticated homes has seen their developments become highly desirable and much sought after.<br/><br/>Run by Daved Lambert and Harold Handelsman respectively, Manhattan Investment Group and Hanson Development Group have over 40 years combined experience in the industry. This experience has seen them develop successful projects in the residential, land subdivision, commercial and retail sectors. This impressive track record allows them to bring a unique insight to their development strategy.]]></bodyText>
+			<webLink><![CDATA[]]></webLink>
+		</team> 
+		
+		<team id="Elenberg Fraser"> 
+			<heading><![CDATA[Architecture & Interiors]]></heading>
+			<bodyText><![CDATA[Established in 1998, Elenberg Fraser is a new generation architecture practice. A network of architecture, urban development and master planning, the practice brings together a highly skilled work force, a progressive workplace and flat management structure supported by a highly developed digital infrastructure network.<br/><br/>Led by Directors Zahava Elenberg and Callum Fraser, the practice comprises professionally qualified architects and talented recent graduates, ensuring that a unique mix of tested experience and fresh ideas are brought to each project.]]></bodyText>
+			<webLink><![CDATA[http://www.elenbergfraser.com/]]></webLink>
+		</team>   
+		
+		<team id="Tract"> 
+			<heading><![CDATA[Landscape]]></heading>
+			<bodyText><![CDATA[Established in 1972, Tract Consultants has become Australia’s pre-eminent landscape architects, having won more state and national awards than any other firm.<br/><br/>With a professional staff of 70+, Tract’s experience covers a broad range of project types from parklands, infrastructure and urban design, to residential planning and landscaping.]]></bodyText>
+			<webLink><![CDATA[http://www.tract.net.au/]]></webLink>
+		</team>   
+		
+	</teamMembers>
+	
+</root>

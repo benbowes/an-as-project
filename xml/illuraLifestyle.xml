@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<root>
+	
+	
+	<blurb>
+		<page><![CDATA[Melbourne. One of the coolest cities in the world. Like nature every city has an ongoing story of regeneration and growth; Melbourne is no exception. It has a dynamic history of rejuvenating space, injecting it with new life and creating an urban landscape most suited to how we live today.]]></page>
+		
+		<page><![CDATA[Illura perches in an enviable location to the west of Melbourne's spectacular city skyline. The dramatic combination of skyscrapers, towers and sports stadia offer a vibrant backdrop to your life.]]></page>
+		
+		<page><![CDATA[Ideally situated on Roden Street between King and Spencer Street, these superbly designed one and two bedroom homes offer a convenient base to work, study and play due to their proximity to the CBD and educational facilities such as Melbourne University, RMIT, State Library of Victoria and VCA.]]></page>
+		
+		<page><![CDATA[No stressful city-bound commutes are required here. Use your time to savour the diversity and dynamism of this rapidly flourishing neighbourhood.]]></page>
+	</blurb>
+	
+	<!-- /////////////////////////////////////////////////////////////////// -->
+	
+	<gallery>  
+		
+		<image> 
+			<url>flashImages/lifestyle/arts1.jpg</url>
+			<heading>Art</heading>
+			<txt heading="ART - CITY OF CULTURE"><![CDATA[It is no secret that Melbourne has it all - art, theatre, dance, comedy, music and a variety of festivals that celebrate each of these magnificent disciplines. A short walk to the north, a thriving arts community awaits you in North Melbourne. Catch a Fringe Festival show beneath the Town Hall's magnificent clock tower, or unearth a masterpiece at the iconic Meat Market, where Melbourne's up and coming designers parade their wares. ]]></txt>
+		</image> 
+		
+		<image> 
+			<url>flashImages/lifestyle/dining1a.jpg</url>
+			<heading>Dining</heading>
+			<txt heading="DINING - FEED THE SENSES"><![CDATA[Savour an enormous variety of culinary pleasures. Less than five minutes away is Melbourne's newest precinct: Docklands. Here you can sit back and enjoy sparkling waterfront views or breathtaking sunsets at award-winning restaurants, stylish bars, or hip cafes. Alternatively head to the CBD; book ahead at any one of an enormous array of one, two or three hat restaurants or take a stroll and find the next hot spot down one of Melbourne's thriving laneways.]]></txt>
+		</image>    
+		
+		<image> 
+			<url>flashImages/lifestyle/shopping1.jpg</url>
+			<heading>Shopping</heading>
+			<txt heading="SHOPPING - CREATE A FASHION"><![CDATA[At Illura, you're ideally placed to explore Melbourne's iconic hidden laneways and historic arcades.  This ever-changing tapestry of designer shops, specialist boutiques, vintage stores, factory outlets and department stores makes for an exciting mix of styles. Create a fashion that makes a statement about who you are.]]></txt>
+		</image> 
+		
+		<image> 
+			<url>flashImages/lifestyle/food1.jpg</url>
+			<heading>Food</heading>
+			<txt heading="FOOD - GET FRESH"><![CDATA[Located just on the other side of the Flagstaff Gardens, the Queen Victoria Market is your personal food store.   A Melbourne institution, the Queen Vic is filled to overflowing with seven hectares of fresh local produce, imported gourmet treats, and eclectic shopping.  The ideal reflection of Melbourne's cosmopolitan make-up it's the perfect place to stock up on essentials or gourmet treats to entertain friends.]]></txt>
+		</image>  
+		
+		<image> 
+			<url>flashImages/lifestyle/sport1.jpg</url>
+			<heading>Sport</heading>
+			<txt heading="SPORT - WHAT'S YOUR GAME?"><![CDATA[Melbourne is renowned for taking its love of sport to a whole new level.  AFL, tennis, cricket, rugby, and soccer - the list goes on and for many it's more religion than game whether you're playing or spectating.  And, at Illura, you're at the heart of competition with Ethiad Stadium, the MCG, Melbourne Park and AAMI Park playing host to some of Australia's greatest sporting events less than a 15 minute walk or tram ride from your door.]]></txt>
+		</image>  
+		
+		<image> 
+			<url>flashImages/lifestyle/sport2.jpg</url>
+			<heading>Sport</heading>
+			<txt heading="SPORT - WHAT'S YOUR GAME?"><![CDATA[Melbourne is renowned for taking its love of sport to a whole new level.  AFL, tennis, cricket, rugby, and soccer - the list goes on and for many it's more religion than game whether you're playing or spectating.  And, at Illura, you're at the heart of competition with Ethiad Stadium, the MCG, Melbourne Park and AAMI Park playing host to some of Australia's greatest sporting events less than a 15 minute walk or tram ride from your door.]]></txt>
+		</image>  
+		
+		<image> 
+			<url>flashImages/lifestyle/food2.jpg</url>
+			<heading>Food</heading>
+			<txt heading="FOOD - GET FRESH"><![CDATA[Located just on the other side of the Flagstaff Gardens, the Queen Victoria Market is your personal food store.   A Melbourne institution, the Queen Vic is filled to overflowing with seven hectares of fresh local produce, imported gourmet treats, and eclectic shopping.  The ideal reflection of Melbourne's cosmopolitan make-up it's the perfect place to stock up on essentials or gourmet treats to entertain friends.]]></txt> 
+		</image>   
+		
+		<image> 
+			<url>flashImages/lifestyle/dining2.jpg</url>
+			<heading>Dining</heading>
+			<txt heading="DINING - FEED THE SENSES"><![CDATA[Savour an enormous variety of culinary pleasures. Less than five minutes away is Melbourne's newest precinct: Docklands. Here you can sit back and enjoy sparkling waterfront views or breathtaking sunsets at award-winning restaurants, stylish bars, or hip cafes. Alternatively head to the CBD; book ahead at any one of an enormous array of one, two or three hat restaurants or take a stroll and find the next hot spot down one of Melbourne's thriving laneways.]]></txt>
+		</image>   
+		
+		<image> 
+			<url>flashImages/lifestyle/arts2.jpg</url>
+			<heading>Art</heading>
+			<txt heading="ART - CITY OF CULTURE"><![CDATA[It is no secret that Melbourne has it all - art, theatre, dance, comedy, music and a variety of festivals that celebrate each of these magnificent disciplines. A short walk to the north, a thriving arts community awaits you in North Melbourne. Catch a Fringe Festival show beneath the Town Hall's magnificent clock tower, or unearth a masterpiece at the iconic Meat Market, where Melbourne's up and coming designers parade their wares. ]]></txt>
+		</image>  
+		
+		<image> 
+			<url>flashImages/lifestyle/shopping2.jpg</url>
+			<heading>Shopping</heading>
+			<txt heading="SHOPPING - CREATE A FASHION"><![CDATA[At Illura, you're ideally placed to explore Melbourne's iconic hidden laneways and historic arcades.  This ever-changing tapestry of designer shops, specialist boutiques, vintage stores, factory outlets and department stores makes for an exciting mix of styles. Create a fashion that makes a statement about who you are.]]></txt>
+		</image>  
+		
+	</gallery>
+	                
+	
+</root>
